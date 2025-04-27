@@ -1,4 +1,4 @@
-```markdown
+
 # **MindCare**
 A mental health app powered by AI, built with **FastAPI** and **Ollama**.
 
